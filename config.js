@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: "em ơi! yêu anh Vũ không😊 ",
+    introTitle: 'gửi em yêu đang làm cấy củ lol ni',
+    introDesc: `trái đất có rất nhiều loại khoai, nhưng em thích nhất là khoai anh  `,
+    btnIntro: '^^kakakakakto^^',
+    title: 'em yêu anh là do khoai anh to hay là do anh đẹp trai 🥰',
+    desc: 'hay là em đạ say khi nhìn thấy body me ',
+    btnYes: 'đẹp trai  <33',
+    btnNo: 'khoai to :3',
+    question: 'vì răng Trang đệ lại thích anh ❤❤❤ t <3',
+    btnReply: ' <3',
+    reply: 'vì anh đạ đẹp trai mà khoai còn to nựa con Vỹ còn thích nói chi em<33333333',
+    mess: 'Mình biết mà 🥰. Yêu em của anh nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h ở bãi rác cửa lò mình qua đón đi chơi nha.',
+    btnAccept: 'Okiiiii lun cccdmmm lol <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
